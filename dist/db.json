@@ -1,0 +1,142 @@
+{
+    "careers": [
+        {
+            "id": 1,
+            "job": "CHEMIST",
+            "image": "chemist-logo.png",
+            "imageS": "chemist-logo-small.png",
+            "imageG": "chemist-icon.gif",
+            "color": "var(--yel)",
+            "initialState": true,
+            "showCareer": true,
+            "expand": false,
+            "gif": false,
+            "blurb": "Developing Nanomaterials for a Sustainable Future",
+            "missionStatement": "Andrew researches sustainable nanomaterials from carbon and other naturally abundant materials to replace or enhance costly components in renewable energy, energy storage, and pollution reduction technologies",
+            "recentWork": ["V2O5 Publication MDPI", "CQD Publication ACS Applied Material Science", "LDH Publication Bioresource Technology"],
+            "interests": ["Supercapacitors", "Photovoltaics", "Carbon-based Nanomaterials", "Quantum Dots", "Computational Chemistry"]
+        },
+        {
+            "id": 2,
+            "job": "ENGINEER",
+            "image": "engineer-logo.png",
+            "imageS": "engineer-logo-small.png",
+            "imageG": "engineer-icon.gif",
+            "color": "var(--gre)",
+            "initialState": true,
+            "showCareer": true,
+            "expand": false,
+            "gif": false,
+            "blurb": "Designing Novel Solutions to the Energy Crisis",
+            "missionStatement": "yes",
+            "recentWork": ["Microbial Fuel Cell", "IMECE Conference", "AirShare Invention Factory"],
+            "interests": ["Bioelectricity", "Computational Fluid Dynamics", "Carbon Materials"]
+        },
+        {
+            "id": 3,
+            "job": "DEVELOPER",
+            "image": "developer-logo.png",
+            "imageS": "developer-logo-small.png",
+            "imageG": "developer-icon.gif",
+            "color": "var(--or)",
+            "initialState": true,
+            "showCareer": true,
+            "expand": false,
+            "gif": false,
+            "blurb": "Solving Complex Problems with Modern Tools",
+            "missionStatement": "yes",
+            "recentWork": ["Switch Website", "SATHub","This Website", "Old Website"],
+            "interests": ["Web Development", "Python", "Laravel", "Vue"]
+        },
+        {
+            "id": 4,
+            "job": "TEACHER",
+            "image": "teacher-logo.png",
+            "imageS": "teacher-logo-small.png",
+            "imageG": "teacher-icon.gif",
+            "color": "var(--pur)",
+            "initialState": true,
+            "showCareer": true,
+            "expand": false,
+            "gif": false,
+            "blurb": "Raising the Next Generation of Leaders",
+            "missionStatement": "yes",
+            "recentWork": ["AP Chemistry", "SAT Test Prep", "AP Physics", "IGCSE English"],
+            "interests": ["Chemistry", "Mathematics", "Biology", "SAT", "English"]
+        }
+    ],
+    "abouts": [
+        {
+            "id": 1,
+            "selection": "about",
+            "title": "Who is Andrew Kim?",
+            "image": "who-icon.png",
+            "color": "white",
+            "expand": false,
+            "portrait": "portrait.jpg",
+            "description": "a cool kid.",
+            "favoriteQuote": "The problem is not the problem. The problem is your attitude about the problem",
+            "quoteAuthor": "Captain Jack Spearow (Pirates of the Caribbean)",
+            "resume": "",
+            "learnMore": ""
+        },
+        {
+            "id": 2,
+            "selection": "contact",
+            "title": "Contact Me",
+            "image": "contact-icon.png",
+            "color": "var(--blu)",
+            "expand": false
+        }
+      ],
+    "contacts": [
+        {
+            "id": 1,
+            "title": "LinkedIn",
+            "image": "linkedin.svg",
+            "logo": "fab fa-linkedin",
+            "link": "https://www.linkedin.com/in/andrewtaehonkim/",
+            "hover": false
+        },
+        {
+            "id": 2,
+            "title": "Email",
+            "image": "email.svg",
+            "logo": "fas fa-envelope",
+            "link": "andrew.taehon.kim@gmail.com",
+            "hover": false
+        },
+        {
+            "id": 3,
+            "title": "Github",
+            "image": "github.svg",
+            "logo": "fab fa-github-square",
+            "link": "https://github.com/AndrewTaehonKim",
+            "hover": false
+        },
+        {
+            "id": 4,
+            "title": "ORCID",
+            "image": "orcid.svg",
+            "logo": "fab fa-orcid",
+            "link": "https://orcid.org/0000-0003-2379-1178",
+            "hover": false
+        },
+        {
+            "id": 5,
+            "title": "Kakao",
+            "image": "kakao.svg",
+            "logo": "fas fa-comment",
+            "link": "akakimmykim",
+            "hover": false
+        },
+        {
+            "id": 6,
+            "title": "Whatsapp",
+            "image": "whatsapp.svg",
+            "logo": "fab fa-whatsapp",
+            "link": "+82 010-8358-2584",
+            "hover": false
+        }
+    ]
+}
